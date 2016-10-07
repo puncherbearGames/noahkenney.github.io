@@ -1,3 +1,3 @@
 # noahkenney.github.io
-Lit projects and stuff
-check out the bomb puppers guide
+Lit projects and stuff.
+Check out the doggo kingdom
