@@ -34,7 +34,7 @@
     width: 82%;
     display: inline-block;
     bottom: 10px;
-    left: 17%;
+    left: 16.5%;
     position: absolute;
     height: 1080px;
 }
@@ -47,14 +47,14 @@
 }
 .pic1 {
     position: fixed;
-    left: 6%;
+    width: 17%;
     z-index: 1;
 }
 p {
     padding-left: 5px;
 }
 img.titlepic {
-    height: 100px;
+    width: 17%;
 }
 a {
     text-decoration: none;
