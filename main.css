@@ -47,13 +47,13 @@
 }
 .pic1 {
     position: fixed;
+    width: 17%;
     z-index: 1;
 }
 p {
     padding-left: 5px;
 }
 img.titlepic {
-    width: 17%;
 }
 a {
     text-decoration: none;
