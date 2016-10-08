@@ -85,6 +85,7 @@ ul {
     background-color: #333;
     position: fixed;
     top: 64px;
+    height: 56px;
     width: 30%;
     left: 70%;
 }
