@@ -6,7 +6,8 @@ html {
     background-image: url("new_year_background.png");
 }
 .title {
-    width: 100%-5px;
+    width: 110%;
+    left:-10%;
     height: 120px;
     top:0px;
     position: fixed;
