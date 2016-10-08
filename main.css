@@ -6,9 +6,9 @@ html {
     background-image: url("new_year_background.png");
 }
 .title {
-    width: 99%;
+    width: 99.999%;
     height: 120px;
-    top:-5px;
+    top:0px;
     position: fixed;
     background-color: rgb(100,100,100);
     color: rgb(240,240,240);
