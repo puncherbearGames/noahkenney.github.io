@@ -8,6 +8,7 @@ html {
 .title {
     width: 99%;
     height: 120px;
+    top:-5px;
     position: fixed;
     background-color: rgb(100,100,100);
     color: rgb(240,240,240);
@@ -16,7 +17,7 @@ html {
     z-index: 3;
     text-indent: 3%;
     border-style:solid;
-    border-width:3px;
+    border-width:8px;
     border-color:white;
 }
 .info {
