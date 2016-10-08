@@ -1,6 +1,6 @@
 @font-face {
     font-family: photoFont;
-    src: url(OpenSans-Condensed.ttf);
+    src: url(OpenSans-Light.ttf);
 }
 html {
     background-image: url("new_year_background.png");
@@ -12,7 +12,6 @@ html {
     background-color: rgb(100,100,100);
     color: rgb(240,240,240);
     font-family: photoFont;
-    text-align: center;
     font-size: 80px;
     z-index: 3;
     box-shadow: 0 0 3px 3px rgba(190, 190, 190, 0.5);
