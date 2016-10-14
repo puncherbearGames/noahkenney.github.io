@@ -113,4 +113,5 @@ li a:hover:not(.active) {
 .hidden-link {
     text-decoration:none;
     cursor:text;
+    color:inherit;
 }
