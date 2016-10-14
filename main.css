@@ -27,7 +27,7 @@ html {
     border-radius: 3px;
     z-index: 1;
     position: absolute;
-    height: 100000%;
+    height: 100000px;
 }
 .info1 {
     font-size: 20px;
@@ -42,7 +42,7 @@ html {
     border-top-left-radius: 3px;
     border-bottom-left-radius: 3px;
     z-index: 2;
-    height: 100000%;
+    height: 100000px;
 }
 .info2 {
     font-size: 20px;
@@ -58,7 +58,7 @@ html {
     border-top-right-radius: 3px;
     border-bottom-right-radius: 3px;
     z-index: 2;
-    height: 100000%;
+    height: 100000px;
 }
 .footnote {
     color: black;
