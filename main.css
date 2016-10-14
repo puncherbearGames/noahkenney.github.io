@@ -110,3 +110,7 @@ li a:hover:not(.active) {
 .active {
     background-color: #1A92AD;
 }
+.hidden-link {
+    text-decoration:none;
+    color:black;
+}
