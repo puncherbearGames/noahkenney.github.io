@@ -42,7 +42,7 @@ html {
     border-bottom-left-radius: 3px;
     z-index: 2;
     height: 100000px;
-    color: #111;
+    color: rgb(120,120,120);
 }
 .info2 {
     font-size: 20px;
@@ -59,7 +59,7 @@ html {
     border-bottom-right-radius: 3px;
     z-index: 2;
     height: 100000px;
-    color: rgb(120,120,120);
+    color: #111;
 }
 .footnote {
     color: black;
