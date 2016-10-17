@@ -87,7 +87,7 @@ ul {
     position: fixed;
     top: 64px;
     height: 56px;
-    left: 70%;
+    right:0%;
 }
 
 li {
