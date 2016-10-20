@@ -115,3 +115,6 @@ li a:hover:not(.active) {
     cursor:text;
     color:inherit;
 }
+img { 
+    width: 100%;
+}
