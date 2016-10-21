@@ -116,5 +116,6 @@ li a:hover:not(.active) {
     color:inherit;
 }
 img { 
-    width: 100%;
+    width: 40%;
+    top: 10px;
 }
